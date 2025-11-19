@@ -4,7 +4,7 @@ header('Content-Type: application/json; charset=utf-8');
 
 $dbHost = '127.0.0.1';
 $dbUser = 'root';
-$dbPass = '5^6n=Z^HEQArnKvF';
+$dbPass = 'mdp';
 $dbName = 'pokedex';
 
 $mysqli = new mysqli($dbHost, $dbUser, $dbPass, $dbName);
